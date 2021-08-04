@@ -1,0 +1,456 @@
+fileFormatVersion: 2
+guid: 6dfc9d1a72b257d4d839a065b5d66423
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3906778053990469877
+    second: Clerigo_Noche_0
+  - first:
+      213: 1169703931395053499
+    second: Clerigo_Noche_1
+  - first:
+      213: -3846925974585848208
+    second: Clerigo_Noche_2
+  - first:
+      213: -1517380887921304184
+    second: Clerigo_Noche_3
+  - first:
+      213: 4427406518366906567
+    second: Clerigo_Noche_4
+  - first:
+      213: 3336270739039185509
+    second: Clerigo_Noche_5
+  - first:
+      213: 8391537738910313169
+    second: Clerigo_Noche_6
+  - first:
+      213: -1472727151354029547
+    second: Clerigo_Noche_7
+  - first:
+      213: -3928400730028768557
+    second: Clerigo_Noche_8
+  - first:
+      213: 6912415769836574259
+    second: Clerigo_Noche_9
+  - first:
+      213: 176015156167730570
+    second: Clerigo_Noche_10
+  - first:
+      213: 4193154096943506430
+    second: Clerigo_Noche_11
+  - first:
+      213: -6668797081177803994
+    second: Clerigo_Noche_12
+  - first:
+      213: -1441503238077349728
+    second: Clerigo_Noche_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 85
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Clerigo_Noche_0
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 841
+        width: 129
+        height: 155
+      alignment: 9
+      pivot: {x: 0.43863305, y: 0.29911244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f2b931f0658c9c0800000000000000
+      internalID: -3906778053990469877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clerigo_Noche_1
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 844
+        width: 147
+        height: 142
+      alignment: 9
+      pivot: {x: 0.48955303, y: 0.32494903}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb71e2b378f9b3010800000000000000
+      internalID: 1169703931395053499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clerigo_Noche_2
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 844
+        width: 129
+        height: 155
+      alignment: 9
+      pivot: {x: 0.4795447, y: 0.3297564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e469f3539fc9ac0800000000000000
+      internalID: -3846925974585848208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clerigo_Noche_3
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 844
+        width: 146
+        height: 140
+      alignment: 9
+      pivot: {x: 0.46978217, y: 0.3262194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ddb723f1e21fae0800000000000000
+      internalID: -1517380887921304184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clerigo_Noche_4
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 842
+        width: 131
+        height: 154
+      alignment: 9
+      pivot: {x: 0.49194288, y: 0.3423589}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8228365ce417d30800000000000000
+      internalID: 4427406518366906567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clerigo_Noche_5
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 571
+        width: 154
+        height: 218
+      alignment: 9
+      pivot: {x: 0.5887703, y: 0.22504334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ae5f29f80dc4e20800000000000000
+      internalID: 3336270739039185509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clerigo_Noche_6
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 573
+        width: 214
+        height: 123
+      alignment: 9
+      pivot: {x: 0.23955971, y: 0.39537483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1daa80ffc1bb47470800000000000000
+      internalID: 8391537738910313169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clerigo_Noche_7
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 571
+        width: 89
+        height: 209
+      alignment: 9
+      pivot: {x: 0.60336405, y: 0.23821817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a587c6572df8be0800000000000000
+      internalID: -1472727151354029547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clerigo_Noche_8
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 278
+        width: 128
+        height: 169
+      alignment: 9
+      pivot: {x: 0.6038066, y: 0.22045231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2004f79548b79c0800000000000000
+      internalID: -3928400730028768557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clerigo_Noche_9
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 315
+        width: 93
+        height: 189
+      alignment: 9
+      pivot: {x: 0.60583234, y: 0.3125255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336dae4e485ddef50800000000000000
+      internalID: 6912415769836574259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clerigo_Noche_10
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 282
+        width: 84
+        height: 260
+      alignment: 9
+      pivot: {x: 0.7167671, y: 0.25015435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85667a1ad4517200800000000000000
+      internalID: 176015156167730570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clerigo_Noche_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 36
+        width: 134
+        height: 160
+      alignment: 9
+      pivot: {x: 0.4132811, y: 0.3456676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3aac45f63113a30800000000000000
+      internalID: 4193154096943506430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clerigo_Noche_12
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 47
+        width: 200
+        height: 79
+      alignment: 9
+      pivot: {x: 0.74208987, y: 0.51838666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6233c31336ca373a0800000000000000
+      internalID: -6668797081177803994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clerigo_Noche_13
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 26
+        width: 194
+        height: 74
+      alignment: 9
+      pivot: {x: 0.7321066, y: 0.53271425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a003df3170cefbe0800000000000000
+      internalID: -1441503238077349728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6e1d876cfd2f3754ca1663ac884e8299
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

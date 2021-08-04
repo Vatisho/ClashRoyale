@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 8e302c26a2536594d82acabc2f9bc947
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5521911970037455188
+    second: TileMap_Cueva_0
+  - first:
+      213: -4829216734518883036
+    second: TileMap_Cueva_1
+  - first:
+      213: 3512827028668430852
+    second: TileMap_Cueva_2
+  - first:
+      213: 926153873104062171
+    second: TileMap_Cueva_3
+  - first:
+      213: -4900231347537057673
+    second: TileMap_Cueva_4
+  - first:
+      213: 3688185277838151938
+    second: TileMap_Cueva_5
+  - first:
+      213: -8404335793558730895
+    second: TileMap_Cueva_6
+  - first:
+      213: -5888838768581006910
+    second: TileMap_Cueva_7
+  - first:
+      213: -8343867909149457881
+    second: TileMap_Cueva_8
+  - first:
+      213: 7461722015263934481
+    second: TileMap_Cueva_9
+  - first:
+      213: 7911210586708703285
+    second: TileMap_Cueva_10
+  - first:
+      213: -8734617243319520574
+    second: TileMap_Cueva_11
+  - first:
+      213: 1576374542831138835
+    second: TileMap_Cueva_12
+  - first:
+      213: 6708036966450339651
+    second: TileMap_Cueva_13
+  - first:
+      213: 1213997848967498594
+    second: TileMap_Cueva_14
+  - first:
+      213: -8921260777827357280
+    second: TileMap_Cueva_15
+  - first:
+      213: 9221159435879159479
+    second: TileMap_Cueva_16
+  - first:
+      213: 4138793368579410412
+    second: TileMap_Cueva_17
+  - first:
+      213: -430943896406486462
+    second: TileMap_Cueva_18
+  - first:
+      213: -144397868551252002
+    second: TileMap_Cueva_19
+  - first:
+      213: 4755793861721176095
+    second: TileMap_Cueva_20
+  - first:
+      213: 8283070752926028393
+    second: TileMap_Cueva_21
+  - first:
+      213: 5582975518049749746
+    second: TileMap_Cueva_22
+  - first:
+      213: 6248272357634271185
+    second: TileMap_Cueva_23
+  - first:
+      213: -2680668088350227421
+    second: TileMap_Cueva_24
+  - first:
+      213: 6171563739315596035
+    second: TileMap_Cueva_25
+  - first:
+      213: 8414624780942890280
+    second: TileMap_Cueva_26
+  - first:
+      213: 7928435682030370018
+    second: TileMap_Cueva_27
+  - first:
+      213: -3691912385342501509
+    second: TileMap_Cueva_28
+  - first:
+      213: 3965489081030087771
+    second: TileMap_Cueva_29
+  - first:
+      213: 8505909290638253802
+    second: TileMap_Cueva_30
+  - first:
+      213: 6469655914046559485
+    second: TileMap_Cueva_31
+  - first:
+      213: -2013230060615592558
+    second: TileMap_Cueva_32
+  - first:
+      213: 9023367322203160766
+    second: TileMap_Cueva_33
+  - first:
+      213: 6343360702480171664
+    second: TileMap_Cueva_34
+  - first:
+      213: 5637195272805879783
+    second: TileMap_Cueva_35
+  - first:
+      213: 4569827207002292570
+    second: TileMap_Cueva_36
+  - first:
+      213: 1726565367490484301
+    second: TileMap_Cueva_37
+  - first:
+      213: 8116248019157284642
+    second: TileMap_Cueva_38
+  - first:
+      213: 5115606032017674587
+    second: TileMap_Cueva_39
+  - first:
+      213: -8325065648354305412
+    second: TileMap_Cueva_40
+  - first:
+      213: 4306349308490490159
+    second: TileMap_Cueva_41
+  - first:
+      213: 5774680800802341671
+    second: TileMap_Cueva_42
+  - first:
+      213: 7516700906961602040
+    second: TileMap_Cueva_43
+  - first:
+      213: -5507860171813565652
+    second: TileMap_Cueva_44
+  - first:
+      213: 9127530363013940677
+    second: TileMap_Cueva_45
+  - first:
+      213: 5737647879914780358
+    second: TileMap_Cueva_46
+  - first:
+      213: 8099035909174609824
+    second: TileMap_Cueva_47
+  - first:
+      213: 4139363636429200405
+    second: TileMap_Cueva_48
+  - first:
+      213: 8235910269513271347
+    second: TileMap_Cueva_49
+  - first:
+      213: 3019353927087197433
+    second: TileMap_Cueva_50
+  - first:
+      213: 7037411705039176339
+    second: TileMap_Cueva_51
+  - first:
+      213: -4473918862237272718
+    second: TileMap_Cueva_52
+  - first:
+      213: 3816243750061365864
+    second: TileMap_Cueva_53
+  - first:
+      213: 5761838475220576467
+    second: TileMap_Cueva_54
+  - first:
+      213: -210332879435350717
+    second: TileMap_Cueva_55
+  - first:
+      213: 8673933503138221922
+    second: TileMap_Cueva_56
+  - first:
+      213: -2837397982551504399
+    second: TileMap_Cueva_57
+  - first:
+      213: 5388864586163180084
+    second: TileMap_Cueva_58
+  - first:
+      213: -4564958809751698177
+    second: TileMap_Cueva_59
+  - first:
+      213: 5128772253348759987
+    second: TileMap_Cueva_60
+  - first:
+      213: -8848852474533157902
+    second: TileMap_Cueva_61
+  - first:
+      213: -8774445546039810229
+    second: TileMap_Cueva_62
+  - first:
+      213: -777311859029808359
+    second: TileMap_Cueva_63
+  - first:
+      213: 5980548038750835347
+    second: TileMap_Cueva_64
+  - first:
+      213: -5662904940905252290
+    second: TileMap_Cueva_65
+  - first:
+      213: 8945255358117693447
+    second: TileMap_Cueva_66
+  - first:
+      213: 5568365361545958052
+    second: TileMap_Cueva_67
+  - first:
+      213: 6762401302950363087
+    second: TileMap_Cueva_68
+  - first:
+      213: -4007583562195719069
+    second: TileMap_Cueva_69
+  - first:
+      213: 5957342135200693813
+    second: TileMap_Cueva_70
+  - first:
+      213: 2385459572971865772
+    second: TileMap_Cueva_71
+  - first:
+      213: 1274416894449409218
+    second: TileMap_Cueva_72
+  - first:
+      213: 2119698965600756832
+    second: TileMap_Cueva_73
+  - first:
+      213: -82407107672121997
+    second: TileMap_Cueva_74
+  - first:
+      213: 650834659258021025
+    second: TileMap_Cueva_75
+  - first:
+      213: -5067758039789365606
+    second: TileMap_Cueva_76
+  - first:
+      213: -6346232856962519537
+    second: TileMap_Cueva_77
+  - first:
+      213: 179905335757359155
+    second: TileMap_Cueva_78
+  - first:
+      213: -5323125686896507216
+    second: TileMap_Cueva_79
+  - first:
+      213: -7760050926089996606
+    second: TileMap_Cueva_80
+  - first:
+      213: 46446206592534124
+    second: TileMap_Cueva_81
+  - first:
+      213: 4867729675789271420
+    second: TileMap_Cueva_82
+  - first:
+      213: 4757222649065116340
+    second: TileMap_Cueva_83
+  - first:
+      213: 7729140884652922741
+    second: TileMap_Cueva_84
+  - first:
+      213: 3382288305517008852
+    second: TileMap_Cueva_85
+  - first:
+      213: 9116812543819921906
+    second: TileMap_Cueva_86
+  - first:
+      213: -4054527921336165122
+    second: TileMap_Cueva_87
+  - first:
+      213: 4722029969612214458
+    second: TileMap_Cueva_88
+  - first:
+      213: -8273730672729066195
+    second: TileMap_Cueva_89
+  - first:
+      213: -5995125741739658706
+    second: TileMap_Cueva_90
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TileMap_Cueva_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1794
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538f41cfc144acd60800000000000000
+      internalID: 7911210586708703285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Cueva_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c230fa25e768c680800000000000000
+      internalID: -8734617243319520574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Cueva_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3183b627b4860e510800000000000000
+      internalID: 1576374542831138835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Cueva_14
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bcbc19c9cf8d010800000000000000
+      internalID: 1213997848967498594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Cueva_15
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ada9f4e690513480800000000000000
+      internalID: -8921260777827357280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Cueva_16
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b691d0b6a328ff70800000000000000
+      internalID: 9221159435879159479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Cueva_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7dda257eefefdf0800000000000000
+      internalID: -144397868551252002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Cueva_21
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9625595d6f063f270800000000000000
+      internalID: 8283070752926028393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Cueva_23
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7eea0ca9256b650800000000000000
+      internalID: 6248272357634271185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Cueva_25
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b6696c58cc5a550800000000000000
+      internalID: 6171563739315596035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Cueva_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee10300f6f0b0670800000000000000
+      internalID: 8505909290638253802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Cueva_31
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df410cfa6c5d8c950800000000000000
+      internalID: 6469655914046559485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Cueva_32
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2959ed92de19f04e0800000000000000
+      internalID: -2013230060615592558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Cueva_34
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092c08943f4280850800000000000000
+      internalID: 6343360702480171664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Cueva_35
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef0b15cb375b3e40800000000000000
+      internalID: 5637195272805879783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Cueva_36
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51894ef1a94b6f30800000000000000
+      internalID: 4569827207002292570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Cueva_38
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22776da5294b2a070800000000000000
+      internalID: 8116248019157284642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Cueva_49
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338845021c4db4270800000000000000
+      internalID: 8235910269513271347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Cueva_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2757d66af7279e1c0800000000000000
+      internalID: -4473918862237272718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Cueva_53
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a56baa87506f430800000000000000
+      internalID: 3816243750061365864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Cueva_54
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d863b0d09926ff40800000000000000
+      internalID: 5761838475220576467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Cueva_60
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b98bb6e03f0d2740800000000000000
+      internalID: 5128772253348759987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Cueva_63
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b64da8bfe6635f0800000000000000
+      internalID: -777311859029808359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Cueva_64
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39217e341cc2ff250800000000000000
+      internalID: 5980548038750835347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Cueva_65
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ab988a5f15961b0800000000000000
+      internalID: -5662904940905252290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Cueva_68
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfbef20820e8dd50800000000000000
+      internalID: 6762401302950363087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Cueva_69
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c21a7bbf33268c0800000000000000
+      internalID: -4007583562195719069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Cueva_74
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d5c341c2b3bdef0800000000000000
+      internalID: -82407107672121997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Cueva_75
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a43690acaa380900800000000000000
+      internalID: 650834659258021025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Cueva_76
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9699b6b9e4bba9b0800000000000000
+      internalID: -5067758039789365606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Cueva_79
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6c6c114657026b0800000000000000
+      internalID: -5323125686896507216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Cueva_80
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6f6771cc2ce4490800000000000000
+      internalID: -7760050926089996606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6c97f41aa5429b84a885b737aa5638e7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

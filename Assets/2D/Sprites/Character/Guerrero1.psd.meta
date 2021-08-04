@@ -1,0 +1,456 @@
+fileFormatVersion: 2
+guid: 2d254a8aa0f2fd7458b9fcb0f385e158
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3759644321712130661
+    second: Guerrero1_0
+  - first:
+      213: -7960742439511680223
+    second: Guerrero1_1
+  - first:
+      213: 5255239693980554902
+    second: Guerrero1_2
+  - first:
+      213: -1471914890608928515
+    second: Guerrero1_3
+  - first:
+      213: 7814331231776404320
+    second: Guerrero1_4
+  - first:
+      213: 1971390781610099595
+    second: Guerrero1_5
+  - first:
+      213: -1767344636821827411
+    second: Guerrero1_6
+  - first:
+      213: 2770064711427478234
+    second: Guerrero1_7
+  - first:
+      213: 8504765848939978390
+    second: Guerrero1_8
+  - first:
+      213: -356979621868771936
+    second: Guerrero1_9
+  - first:
+      213: -8205590924633368478
+    second: Guerrero1_10
+  - first:
+      213: -3352786634140976962
+    second: Guerrero1_11
+  - first:
+      213: 4350791911447107711
+    second: Guerrero1_12
+  - first:
+      213: -7624246556809415248
+    second: Guerrero1_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Guerrero1_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 879
+        width: 169
+        height: 199
+      alignment: 9
+      pivot: {x: 0.31388384, y: 0.33206254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95b88aa86f03dbc0800000000000000
+      internalID: -3759644321712130661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guerrero1_1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 878
+        width: 170
+        height: 200
+      alignment: 9
+      pivot: {x: 0.380507, y: 0.3361786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b9788dde2c58190800000000000000
+      internalID: -7960742439511680223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guerrero1_2
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 879
+        width: 170
+        height: 201
+      alignment: 9
+      pivot: {x: 0.2725778, y: 0.33373356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6965e3188ac5ee840800000000000000
+      internalID: 5255239693980554902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guerrero1_3
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 878
+        width: 170
+        height: 195
+      alignment: 9
+      pivot: {x: 0.37279734, y: 0.34541985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df895ad9435b29be0800000000000000
+      internalID: -1471914890608928515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guerrero1_4
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 879
+        width: 170
+        height: 199
+      alignment: 9
+      pivot: {x: 0.34581515, y: 0.32547656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063f54b6ad4127c60800000000000000
+      internalID: 7814331231776404320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guerrero1_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 549
+        width: 151
+        height: 304
+      alignment: 9
+      pivot: {x: 0.23189251, y: 0.23621769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8389539879cb5b10800000000000000
+      internalID: 1971390781610099595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guerrero1_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 549
+        width: 293
+        height: 175
+      alignment: 9
+      pivot: {x: 0.19177152, y: 0.411024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da01b86aa612977e0800000000000000
+      internalID: -1767344636821827411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guerrero1_7
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 548
+        width: 166
+        height: 164
+      alignment: 9
+      pivot: {x: 0.60787046, y: 0.4382864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2da79bd2f317620800000000000000
+      internalID: 2770064711427478234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guerrero1_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 260
+        width: 163
+        height: 177
+      alignment: 9
+      pivot: {x: 0.4188024, y: 0.43402168}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ed0fbba7ff60670800000000000000
+      internalID: 8504765848939978390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guerrero1_9
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 268
+        width: 151
+        height: 267
+      alignment: 9
+      pivot: {x: 0.329855, y: 0.2842239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5657edce0cb0bf0800000000000000
+      internalID: -356979621868771936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guerrero1_10
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 270
+        width: 218
+        height: 212
+      alignment: 9
+      pivot: {x: 0.78213304, y: 0.4081906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2681f057782ef1e80800000000000000
+      internalID: -8205590924633368478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guerrero1_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 176
+        height: 174
+      alignment: 9
+      pivot: {x: 0.24469027, y: 0.3104542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb87950f1528871d0800000000000000
+      internalID: -3352786634140976962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guerrero1_12
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 48
+        width: 212
+        height: 176
+      alignment: 9
+      pivot: {x: 0.5669331, y: 0.28500232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f789275213e116c30800000000000000
+      internalID: 4350791911447107711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guerrero1_13
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 12
+        width: 283
+        height: 94
+      alignment: 9
+      pivot: {x: 0.47021377, y: 0.5398558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5316dc62c313690800000000000000
+      internalID: -7624246556809415248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 42aeef056679aff46814ce570608cd21
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

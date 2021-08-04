@@ -1,0 +1,402 @@
+fileFormatVersion: 2
+guid: c7afe1d576752664b9d6a38715495fb7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Clerigo1_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 891
+        width: 156
+        height: 185
+      alignment: 9
+      pivot: {x: 0.42177704, y: 0.27280143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304938565c8aa8690800000000000000
+      internalID: -7599075855469145085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clerigo1_1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 891
+        width: 174
+        height: 172
+      alignment: 9
+      pivot: {x: 0.45324612, y: 0.2950443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83538294c97770a20800000000000000
+      internalID: 3028520787555923256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clerigo1_3
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 892
+        width: 156
+        height: 188
+      alignment: 9
+      pivot: {x: 0.4217772, y: 0.29806325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d238e9d3d4c2070800000000000000
+      internalID: 8082920358270938382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clerigo1_5
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 892
+        width: 174
+        height: 168
+      alignment: 9
+      pivot: {x: 0.44545385, y: 0.2901644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86d5ef02482bbc90800000000000000
+      internalID: -7153079318948227446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clerigo1_6
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 889
+        width: 156
+        height: 185
+      alignment: 9
+      pivot: {x: 0.43916008, y: 0.28745943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c77692efc201b880800000000000000
+      internalID: -8597087121790568507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clerigo1_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 580
+        width: 170
+        height: 254
+      alignment: 9
+      pivot: {x: 0.55582964, y: 0.20640768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fdcc631d3be4a60800000000000000
+      internalID: 7660257727352725322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clerigo1_13
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 580
+        width: 253
+        height: 151
+      alignment: 9
+      pivot: {x: 0.22668348, y: 0.33837405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba46ed67ac00cfb30800000000000000
+      internalID: 4322330611946513579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clerigo1_14
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 580
+        width: 99
+        height: 247
+      alignment: 9
+      pivot: {x: 0.6095649, y: 0.198087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b06907b445e3d50800000000000000
+      internalID: 6718900377071520658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clerigo1_15
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 282
+        width: 114
+        height: 226
+      alignment: 9
+      pivot: {x: 0.65461624, y: 0.27802244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86c7613eec4311f0800000000000000
+      internalID: -1075431300096604531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clerigo1_16
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 247
+        width: 103
+        height: 306
+      alignment: 9
+      pivot: {x: 0.78960234, y: 0.22528246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2dd5c306c8aa1d0800000000000000
+      internalID: -3338701828784270659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clerigo1_19
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 244
+        width: 144
+        height: 207
+      alignment: 9
+      pivot: {x: 0.59415734, y: 0.22489716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8251f605de561d8e0800000000000000
+      internalID: -1670441916846631640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clerigo1_22
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 15
+        width: 157
+        height: 204
+      alignment: 9
+      pivot: {x: 0.40149435, y: 0.38843203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e6745054a051ec0800000000000000
+      internalID: -3596957435827884438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clerigo1_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 37
+        width: 236
+        height: 92
+      alignment: 9
+      pivot: {x: 0.72782177, y: 0.5666108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c630f4edf2dffd0800000000000000
+      internalID: -2306634802288956413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clerigo1_24
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 10
+        width: 231
+        height: 88
+      alignment: 9
+      pivot: {x: 0.69462156, y: 0.69877297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9b5daeba41e0110800000000000000
+      internalID: 1228942476930562467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8702d94479c70f447a06303265b57215
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

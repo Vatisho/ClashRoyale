@@ -41,3 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: BG
+    uniqueID: 126403215
+    locked: 0
+  - name: Ground
+    uniqueID: 1417000921
+    locked: 0
+  - name: NIkkys
+    uniqueID: 4292554043
+    locked: 0
+  - name: Entities
+    uniqueID: 3458208229
+    locked: 0
+  - name: Foreground
+    uniqueID: 4112095485
+    locked: 0

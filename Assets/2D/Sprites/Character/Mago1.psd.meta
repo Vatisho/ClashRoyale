@@ -1,0 +1,456 @@
+fileFormatVersion: 2
+guid: 12f3118eb2ec03b44bc973d699b04e6b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5080631230629476550
+    second: Mago1_0
+  - first:
+      213: 1316926015567527220
+    second: Mago1_1
+  - first:
+      213: -4394333640162843679
+    second: Mago1_2
+  - first:
+      213: -5544221847147832015
+    second: Mago1_3
+  - first:
+      213: -8571498053945945772
+    second: Mago1_4
+  - first:
+      213: 2898739349491328458
+    second: Mago1_5
+  - first:
+      213: 6683747981103480438
+    second: Mago1_6
+  - first:
+      213: 6821660799457447130
+    second: Mago1_7
+  - first:
+      213: -7752538014686189058
+    second: Mago1_8
+  - first:
+      213: -3727391615212261
+    second: Mago1_9
+  - first:
+      213: 6107996283632300874
+    second: Mago1_10
+  - first:
+      213: -1284108888800317085
+    second: Mago1_11
+  - first:
+      213: 53841088628104665
+    second: Mago1_12
+  - first:
+      213: -2582766131486321020
+    second: Mago1_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mago1_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 840
+        width: 134
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8fc689f27028640800000000000000
+      internalID: 5080631230629476550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago1_1
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 843
+        width: 132
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d7f59db39a64210800000000000000
+      internalID: 1316926015567527220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago1_2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 844
+        width: 131
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e36b8126d03403c0800000000000000
+      internalID: -4394333640162843679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago1_3
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 840
+        width: 134
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d1bc4ca97fe03b0800000000000000
+      internalID: -5544221847147832015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago1_4
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 843
+        width: 135
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45199950febeb0980800000000000000
+      internalID: -8571498053945945772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago1_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 572
+        width: 183
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5a0e684146a3820800000000000000
+      internalID: 2898739349491328458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago1_6
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 574
+        width: 212
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e38e5706171cc50800000000000000
+      internalID: 6683747981103480438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago1_7
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 572
+        width: 138
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc4ed9ba586bae50800000000000000
+      internalID: 6821660799457447130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 189
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9eae610c3796490800000000000000
+      internalID: -7752538014686189058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago1_9
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 327
+        width: 202
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1526d205f1c2fff0800000000000000
+      internalID: -3727391615212261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago1_10
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 268
+        width: 171
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a433f472246f3c450800000000000000
+      internalID: 6107996283632300874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago1_11
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 28
+        width: 165
+        height: 203
+      alignment: 9
+      pivot: {x: 0.3579033, y: 0.22458352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361b226e4cded2ee0800000000000000
+      internalID: -1284108888800317085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago1_12
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 12
+        width: 257
+        height: 155
+      alignment: 9
+      pivot: {x: 0.6670265, y: 0.44030938}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd9ff15f284fb000800000000000000
+      internalID: 53841088628104665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago1_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 261
+        height: 133
+      alignment: 9
+      pivot: {x: 0.6903249, y: 0.3736515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48619d233eb282cd0800000000000000
+      internalID: -2582766131486321020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2777db83d87fe504cbd136ed2e4a669f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

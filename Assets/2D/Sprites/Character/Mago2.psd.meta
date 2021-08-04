@@ -1,0 +1,444 @@
+fileFormatVersion: 2
+guid: e5d8c7065b2827944b004d6c011a32bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2158078190645906775
+    second: Mago2_0
+  - first:
+      213: -1210575182089118508
+    second: Mago2_1
+  - first:
+      213: -8727168913349615108
+    second: Mago2_2
+  - first:
+      213: 291755512763201180
+    second: Mago2_3
+  - first:
+      213: 4558240724419746107
+    second: Mago2_4
+  - first:
+      213: -1492366861921375261
+    second: Mago2_5
+  - first:
+      213: 5141050469095736559
+    second: Mago2_6
+  - first:
+      213: -8997356338077561375
+    second: Mago2_7
+  - first:
+      213: -2387332352032312018
+    second: Mago2_8
+  - first:
+      213: -3107963070973865838
+    second: Mago2_9
+  - first:
+      213: 6455640186098707383
+    second: Mago2_10
+  - first:
+      213: -1422834198398039290
+    second: Mago2_11
+  - first:
+      213: 8837050375360678994
+    second: Mago2_12
+  - first:
+      213: 5040095276249994007
+    second: Mago2_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mago2_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 881
+        width: 167
+        height: 189
+      alignment: 9
+      pivot: {x: 0.37170365, y: 0.28260988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d87fe2ea803fd10800000000000000
+      internalID: 2158078190645906775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago2_1
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 880
+        width: 183
+        height: 179
+      alignment: 9
+      pivot: {x: 0.3947417, y: 0.30267403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc9ca9294c233fe0800000000000000
+      internalID: -1210575182089118508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago2_2
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 881
+        width: 164
+        height: 197
+      alignment: 9
+      pivot: {x: 0.33813217, y: 0.25886342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1e6f0ac1ed2e680800000000000000
+      internalID: -8727168913349615108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago2_3
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 879
+        width: 178
+        height: 201
+      alignment: 9
+      pivot: {x: 0.38508487, y: 0.26569575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c963383d7168c0400800000000000000
+      internalID: 291755512763201180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago2_4
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 581
+        width: 129
+        height: 285
+      alignment: 9
+      pivot: {x: 0.5821865, y: 0.19374593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3912cbc9cf124f30800000000000000
+      internalID: 4558240724419746107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago2_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 583
+        width: 272
+        height: 173
+      alignment: 9
+      pivot: {x: 0.19995779, y: 0.31614798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebac98fe3c0a4be0800000000000000
+      internalID: -1492366861921375261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago2_6
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 584
+        width: 108
+        height: 261
+      alignment: 9
+      pivot: {x: 0.5259405, y: 0.21164584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe48ec6c92ea85740800000000000000
+      internalID: 5141050469095736559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago2_7
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 239
+        width: 164
+        height: 212
+      alignment: 9
+      pivot: {x: 0.55111605, y: 0.2297919}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed074f9418f22380800000000000000
+      internalID: -8997356338077561375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago2_8
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 283
+        width: 133
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24385147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25f05cdfdd7eded0800000000000000
+      internalID: -2387332352032312018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago2_9
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 241
+        width: 123
+        height: 330
+      alignment: 9
+      pivot: {x: 0.6476686, y: 0.19939603}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290129bbd0c4ed4d0800000000000000
+      internalID: -3107963070973865838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago2_10
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 240
+        width: 178
+        height: 186
+      alignment: 9
+      pivot: {x: 0.4108801, y: 0.2942364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb662abb8a079950800000000000000
+      internalID: 6455640186098707383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago2_11
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 10
+        width: 179
+        height: 187
+      alignment: 9
+      pivot: {x: 0.3907239, y: 0.3592777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b0536c5d3114ce0800000000000000
+      internalID: -1422834198398039290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago2_12
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 10
+        width: 252
+        height: 117
+      alignment: 9
+      pivot: {x: 0.6597911, y: 0.5101049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c0b95ee7283aa70800000000000000
+      internalID: 8837050375360678994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago2_13
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 4
+        width: 224
+        height: 97
+      alignment: 9
+      pivot: {x: 0.6995961, y: 0.6421938}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713510f33f302f540800000000000000
+      internalID: 5040095276249994007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8f7435e4a7ade1e45a77ac08251eb25b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
