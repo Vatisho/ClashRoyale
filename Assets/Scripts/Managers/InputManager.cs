@@ -54,7 +54,6 @@ public class InputManager : InputHandler
 
         if (_inputs.HasdInputsChanged(i_axis, i_jump, i_atack, i_special_atack))
         {
-        print(_inputs.horizontalInput);
             if (i_atack || i_special_atack)
             {
                 _inputs = new Inputs(Vector2.zero, i_axis, i_atack, i_jump, i_special_atack);

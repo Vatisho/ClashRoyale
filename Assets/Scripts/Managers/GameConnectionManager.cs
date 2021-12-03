@@ -64,7 +64,6 @@ public class GameConnectionManager : MonoBehaviour
         // Debug.Log(playerCount);
         if (nakamaConnection.connections == playerCount)
         {
-            Debug.Log("Match is full");
             // await StartHost();
             StartHost();
         }
@@ -163,8 +162,8 @@ public class GameConnectionManager : MonoBehaviour
             playersSessionIDs.Sort();
             isHost = localUserSessionID == playersSessionIDs[0];
             isHostSet = true;
-            Debug.Log("Host: " + playersSessionIDs[0]);
-            Debug.Log("Local: " + localUserSessionID);
+            // Debug.Log("Host: " + playersSessionIDs[0]);
+            // Debug.Log("Local: " + localUserSessionID);
             Debug.Log("isHost: " + isHost);
 
             uiConnectionManager.SetHost();

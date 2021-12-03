@@ -21,4 +21,6 @@ public class Player : MonoBehaviour
     {
         _rb.velocity=direction * 10;
     }
+    public Vector2 velocity => _rb.velocity;
+    public Vector3 position => transform.position;
 }

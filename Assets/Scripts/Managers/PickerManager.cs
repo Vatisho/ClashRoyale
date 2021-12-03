@@ -74,7 +74,6 @@ public class PickerManager : MonoBehaviour
 
     private async void StartGame()
     {
-        Debug.Log("StartGame");
         await nakama.socket.SendMatchStateAsync(nakama.currentMatch.Id, OpCodes.StartGame, "0");
         uiConnectionManager.StartGame();
         HostManager.isGameStarted = true;
