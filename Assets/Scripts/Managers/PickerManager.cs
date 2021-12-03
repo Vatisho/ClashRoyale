@@ -8,6 +8,7 @@ public class PickerManager : MonoBehaviour
     // GameConnectionManager gameConnectionManager;
     NakamaConnection nakama;
     UiConnectionManager uiConnectionManager;
+    private PlayersManager _playersManager;
     public bool[] characters = { false, false, false, false, false, false, false, false };
     //TODO: set players to 0
     private int players = 6;
@@ -19,6 +20,7 @@ public class PickerManager : MonoBehaviour
         nakama = GameObject.FindObjectOfType<GameConnectionManager>().nakamaConnection;
 
         uiConnectionManager = FindObjectOfType<UiConnectionManager>();
+        _playersManager = FindObjectOfType<PlayersManager>();
 
         UnityMainThreadDispatcher mainThread = UnityMainThreadDispatcher.Instance();
         nakama.socket.ReceivedMatchState += m => mainThread.Enqueue(async () => await OnReceivedMatchState(m));
@@ -76,6 +78,7 @@ public class PickerManager : MonoBehaviour
         await nakama.socket.SendMatchStateAsync(nakama.currentMatch.Id, OpCodes.StartGame, "0");
         uiConnectionManager.StartGame();
         HostManager.isGameStarted = true;
+        _playersManager.StartGame();
     }
 
     private async Task OnReceivedMatchState(IMatchState state)

@@ -13,6 +13,7 @@ public class GameConnectionManager : MonoBehaviour
     UiConnectionManager uiConnectionManager;
     PickerManager pickerManager;
     HostManager hostManager;
+    private PlayersManager _playersManager;
 
     public List<string> playersSessionIDs;
     private IUserPresence localUser;
@@ -27,6 +28,8 @@ public class GameConnectionManager : MonoBehaviour
         playersSessionIDs = new List<string>();
         uiConnectionManager = FindObjectOfType<UiConnectionManager>();
         hostManager = FindObjectOfType<HostManager>();
+        pickerManager = FindObjectOfType<PickerManager>();
+        _playersManager = FindObjectOfType<PlayersManager>();
 
         await Connect();
     }
@@ -102,6 +105,7 @@ public class GameConnectionManager : MonoBehaviour
                     uiConnectionManager.StartGame();
                     HostManager.isGameStarted = true;
                 }
+                _playersManager.StartGame();
                 break;
         }
     }

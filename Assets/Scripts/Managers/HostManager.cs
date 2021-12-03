@@ -11,7 +11,6 @@ public class HostManager : MonoBehaviour
     public static string sessionID{ get; private set; }
     public static bool isHost{ get; private set; }
     public static bool isGameStarted= false;
-    Dictionary<string, string> playersStatesDictionary;
     public static string [] characters = {"","","","","","","",""};
 
     void Awake()
